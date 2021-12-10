@@ -10,7 +10,7 @@ public class Exam {
 	
 	
 	
-// i must complete this	
+// i must complete this	its just skolan method 
 //	public static void reverse1() {
 //		System.out.println("celsius    fahrenhiet | faherhiet    celsius");
 //						//    1234567890123456789012345678901234567890123
